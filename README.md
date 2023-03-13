@@ -1,4 +1,5 @@
-![](https://media.licdn.com/dms/image/D4D16AQFZEvaBkFHNsQ/profile-displaybackgroundimage-shrink_350_1400/0/1674859653591?e=1680134400&v=beta&t=w4NkHCnfAACX1GGXUothLQNDcu_ZGp3swpgTJBmc4Ao)
+![](https://media.licdn.com/dms/image/D4D16AQFrqA589_RKZQ/profile-displaybackgroundimage-shrink_350_1400/0/1678733386215?e=1684368000&v=beta&t=dyISfOBREYF8H032tFAHjQWMhb0L8Z1gkjZcdI0xveA)
+
 
 # Aleksandr Kornjushko
 I'm self-taught Swift developer in my spare time
